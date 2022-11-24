@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently working on a web app that intends to combine community discourse and constructive criticism with creative writing, new ideas, and even short programs. 
+Expcted to graduate from the University of Washington in 2023
+
+Here are some of my past/ongoing projects:
 <!--
 **andrewjumanca/andrewjumanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
