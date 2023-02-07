@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a university student studying Informatics and currently working on building a chat sharing website with my fellow college students. In addition to my passion for web development, I'm also interested in data science and have been working on various projects in that field. As I near the end of my studies, I am actively seeking out software engineering and machine learning roles for next year. I'm excited to bring my skills and enthusiasm to a new team and continue learning and growing in my career.
+Welcome to my GitHub. I'm a university student studying Informatics and currently working on building a chat sharing website with my fellow college students. In addition to my passion for web development, I'm also interested in data science and have been working on various projects in that field. As I near the end of my studies, I am actively seeking out software engineering and machine learning roles for next year. I'm excited to bring my skills and enthusiasm to a new team and continue learning and growing in my career.
 
 
 ## 🌐 Socials:
