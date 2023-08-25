@@ -1,6 +1,4 @@
-Certainly, here's a concise GitHub profile README in Markdown format, tailored for you:
 
-```markdown
 # Hi, I'm Andrew
 
 <a href="https://www.linkedin.com/in/andrew-jumanca/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
@@ -37,11 +35,9 @@ I'm a software developer with a knack for problem-solving. Passionate about code
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
 Python       5 hrs           ██████████▒░░░░░░░░░░░░░░ 
 JavaScript   3 hrs           ███████▒░░░░░░░░░░░░░░░░░ 
 Markdown     1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░ 
 ```
 <!--END_SECTION:waka-->
 
-```
