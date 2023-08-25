@@ -11,7 +11,7 @@ I'm a software developer with a knack for problem-solving. Passionate about code
 
 ### What I'm Up To 🛠️
 
-- 🔭 Currently working on a ![platform](https://gitreps.com) to help showcase developer open-source and personal contributions.
+- 🔭 Currently working on a [platform](https://gitreps.com) to help showcase developer open-source and personal contributions.
 - 🌱 Learning more about large language models and how they interpret information.
 - 📫 How to reach me: [andrew@jumanca.dev](mailto:andrew@jumanca.dev)
 
