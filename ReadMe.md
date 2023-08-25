@@ -2,7 +2,7 @@
 # Hi, I'm Andrew
 
 LinkedIn:
-<a href="https://www.linkedin.com/in/andrew-jumanca/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrew-jumanca/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="20" width="20" /></a>
 &nbsp;
 
 ## About Me 🚀
