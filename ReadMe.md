@@ -6,9 +6,9 @@
 
 ## About Me 🚀
 
-I'm a software developer with a knack for problem-solving. Passionate about code quality and best practices.
+I'm a software developer with a knack for problem-solving. Passionate about machine learning applications and building interesting solutions to problems.
 
-### What I'm Up To 🛠️
+### What I''ve Been Working on Lately:
 
 - 🔭 Currently working on a [platform](https://gitreps.com) to help showcase developer open-source and personal contributions.
 - 🌱 Learning more about large language models and how they interpret information.
