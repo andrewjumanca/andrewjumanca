@@ -8,7 +8,7 @@
 
 I'm a software developer with a knack for problem-solving. Passionate about machine learning applications and building interesting solutions to problems.
 
-### What I''ve Been Working on Lately:
+### What I've Been Working on Lately:
 
 - 🔭 Currently working on a [platform](https://gitreps.com) to help showcase developer open-source work and personal contributions.
 - 🌱 Experimenting with ways to expedite the process of giving large language models context about their environment.
