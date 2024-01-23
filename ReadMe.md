@@ -1,17 +1,17 @@
 
-# Hi, I'm Andrew 
+# Hi, I'm Andrew. Welcome to my GitHub!
 
 <a href="https://www.linkedin.com/in/andrew-jumanca/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="20" width="20" /></a>
 &nbsp;
 
-## About Me 🚀
+## About Me💡
 
 I'm a software developer with an interest in data engineering and machine learning. 
 
 ### What I've Been Working on Lately:
 
-- 🔭 Currently working on a [platform](https://gitreps.com) to help showcase developer open-source work and personal contributions.
-- 🌱 Experimenting with large language models
+- 🔭 Currently working on a [platform](https://gitreps.com) to help connect developers to open-source work and showcase contributions.
+- 🌱 Developing some exciting, useful Discord bots!!
 - 📫 How to reach me: [andrew@jumanca.dev](mailto:andrew@jumanca.dev)
 
 ---
