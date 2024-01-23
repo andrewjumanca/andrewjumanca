@@ -2,7 +2,8 @@
 # Hi, I'm Andrew. Welcome to my GitHub!
 
 <a href="https://www.linkedin.com/in/andrew-jumanca/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="20" width="20" /></a>
-<a href="https://www.jumanca.dev/" target="_blank"><img align="center" alt="portfolio-link" height="20" width="20" /><h1>P</h1></a>
+
+<h1><a href="https://www.jumanca.dev/" target="_blank"><img align="center" alt="portfolio-link" height="20" width="20" />P</a></h1>
 &nbsp;
 
 ## About Me💡
