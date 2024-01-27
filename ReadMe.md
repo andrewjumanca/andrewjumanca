@@ -1,7 +1,7 @@
 
 # Hi, I'm Andrew. Welcome to my GitHub!
 
-<a href="https://www.linkedin.com/in/andrew-jumanca/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="20" width="20" /></a> <h2><a href="https://www.jumanca.dev/">Folio</a></h2>
+<a href="https://www.linkedin.com/in/andrew-jumanca/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="20" width="20" /></a> <h2><a href="https://www.jumanca.dev/" target="_blank">Folio</a></h2>
 ## About Me💡
 I'm a software developer. I like thinking of very niche, useful software apps and creating them. I enjoy working across the full stack and mixing technologies you wouldn't normally think to use together.
 
