@@ -6,6 +6,8 @@
 ## About Me💡
 I'm a software developer. I like thinking of very niche, useful software apps and creating them. I enjoy working across the full stack and mixing technologies you wouldn't normally think to use together.
 
+Open to full-time opportunities and project collaboration.
+
 ### What I've Been Working on Lately:
 
 - 🔭 Currently working on a [platform](https://gitreps.com) to help connect developers to open-source work and showcase contributions.
